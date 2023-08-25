@@ -25,4 +25,6 @@ Submission Technology Stacks/Frameworks: Choose tags (ex: React Node.js MySQL )
 Work-thru Video link: Add link (maximum 2 minutes)
 
 
+
+![OW7U2V1](https://github.com/SE-LAPS/Duothan-3.0-Web-App/assets/99049759/1d0ad756-c81e-402d-bece-b5010930f338)
 ![Dev](https://user-images.githubusercontent.com/87580847/221170481-33fa8dc2-8551-466e-833d-593b45a12c38.png)
